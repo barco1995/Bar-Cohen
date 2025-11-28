@@ -1,0 +1,7 @@
+{
+  "name": "Social Dynamics Mastery",
+  "description": "A comprehensive platform for mastering social intelligence, dating confidence, and interpersonal dynamics. Features knowledge from RSD, PUA theory, and evolutionary psychology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
